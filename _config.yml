@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+title: 'eunbi's blog'
+description: ''
+keyword: 'javascript, front-end'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -21,12 +21,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2020
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: 'Eunbi Park'
+nickname: Silver Rain'
+bio: 'Freont-end developer'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -36,19 +36,19 @@ search: true
 nightMode: true
 
 # Comments 评论功能
-comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+#comments:
+  #disqus: false
+  #disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
-social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+#social-share: true
+#social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
