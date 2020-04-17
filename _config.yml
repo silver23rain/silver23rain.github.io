@@ -1,33 +1,29 @@
-# Site settings 配置站点
-title: 'eunbi's blog'
-description: ''
-keyword: 'javascript, front-end'
-url: '' # your host
+# Site settings
+title: "Eunbi's Blog"
+description: ""
+keyword: "javascript, front-end"
+url: "" # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
-# 在服务器上建站时，如果你不需要子域名，请将这一格留空
 # if you're using GitHub Pages, set baseurl to your blog's .
-# 如果你在使用 GitHub Pages, 请将 baseurl 设置为你的网址的子域名
 # for example, if your site is "kaeyleo.github.io", then this url should leave blank.
-# 例如，当你的域名是 "kaeyleo.github.io"  时，这个 url 需要留空
 # but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
-# 但是，如果你创建了一个叫 "myblog" 的网站，此时网址会变成 "kaeyleo.github.io/myblog" ，这时再将 baseurl 设置为 '/myblog'
-baseurl: ''
+baseurl: ""
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+    home: "/"
+    tags: "/tags.html"
 
 # Footer
 footer:
-  since: 2020
+    since: 2020
 
-# Author 配置博主信息
-author: 'Eunbi Park'
+# Author
+author: "Eunbi Park"
 nickname: Silver Rain'
-bio: 'Freont-end developer'
-avatar: '/assets/img/profile.png'
+bio: "Freont-end developer"
+avatar: "/assets/img/profile.png"
 
 # Search
 search: true
@@ -35,10 +31,10 @@ search: true
 # Night mode
 nightMode: true
 
-# Comments 评论功能
+# Comments
 #comments:
-  #disqus: false
-  #disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+#disqus: false
+#disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -47,31 +43,39 @@ mathjax: true
 #social-share: true
 #social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
-# theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+# theme color
+theme-color: "pink" # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'circuitBoard'
+postPatterns: "circuitBoard"
 
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  github: '//github.com/silver23rain'
+    github: "//github.com/silver23rain"
 
-# Tags 设置标签
+# Tags
 recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
 paginate: 6
-paginate_path: 'page:num'
-exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
+paginate_path: "page:num"
+exclude:
+    [
+        "node_modules",
+        "dev",
+        "package.json",
+        "gulpfile.js",
+        ".gitignore",
+        "README.md",
+    ]
 
 # Markdown
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM
+    input: GFM
 
 # RSS
 RSS: false
