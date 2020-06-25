@@ -131,7 +131,7 @@ beta.2 버전( 글 적는 일자 기준 최신)이 올라왔길래 설치해봤�
 babel-eslint@11 정식버전에서는 수정 되어 있길 바라며...
 찝찝한 마무리
 
-![안녕](https://lh3.googleusercontent.com/proxy/Nqrum3byFyaOnuphwcgiHdA8aTPfiI-vosTIMbgrb6r3SFThcWXtsOpLKyUK_9th57SY4H6pk9_dTZLnKMGW-Hu39plaCaNOEnjWm_ZAvh8ZLtw4d2tcxCQOAWdt620CbIzekkZd43hSOKsdC5vipx5_Xy0qsTqoqzrNFr-zuo_CQY3ijYvY)
+![안녕](https://mblogthumb-phinf.pstatic.net/20141207_41/qw1460_1417954367152S0Cjr_JPEG/KakaoTalk_20141206_192047443.jpg?type=w2)
 
 ---
 
