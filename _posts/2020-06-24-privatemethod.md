@@ -5,9 +5,6 @@ date: 2020-06-24
 author: Eunbi
 tags: babel esmascript javascript eslint
 cover: "https://miro.medium.com/max/1280/1*AYmSGc1mM-kZTElGpuaWIA.jpeg"
-sitemap:
-    changefreq: daily
-    priority: 1.0
 ---
 
 # ES10 private method 적용해보기 (+Babel)
