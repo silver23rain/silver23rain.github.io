@@ -126,10 +126,11 @@ npm install babel-eslint@11.0.0-beta.0 --save -dev
 
 beta.2 버전( 글 적는 일자 기준 최신)이 올라왔길래 설치해봤지만... 같은 eslint 메세지가 출력된다.
 
-[beta.2 버전에서도 해당 이슈는 해결되지 않았다](https://github.com/babel/babel-eslint/issues/826)
+~~[beta.2 버전에서도 해당 이슈는 해결되지 않았다](https://github.com/babel/babel-eslint/issues/826)~~
 
-babel-eslint@11 정식버전에서는 수정 되어 있길 바라며...
-찝찝한 마무리
+~~babel-eslint@11 정식버전에서는 수정 되어 있길 바라며...~~
+
+> => [beta.2 이슈](https://github.com/babel/babel-eslint/issues/826)가 close 되면서 댓글에 [@babel/eslint-parser 7.11.0](https://babel.dev/blog/2020/07/13/the-state-of-babel-eslint#the-future) 공식버전에는 수정되어있다고 한다.
 
 ![안녕](https://mblogthumb-phinf.pstatic.net/20141207_41/qw1460_1417954367152S0Cjr_JPEG/KakaoTalk_20141206_192047443.jpg?type=w2)
 
