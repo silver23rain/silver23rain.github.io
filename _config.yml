@@ -29,7 +29,7 @@ avatar: "/assets/img/profile.png"
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments
 #comments:

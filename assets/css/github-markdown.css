@@ -634,3 +634,14 @@ li p:nth-child(2) {
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+
+.markdown-body .idea {
+  background-color: #f1f1f1;
+  padding: 15px;
+  border-radius: 2px;
+}
+
+.markdown-body .idea::before {
+  content: '💡';
+  font-size: 1.2em;
+}
